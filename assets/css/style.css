@@ -624,6 +624,7 @@ footer .konten-footer-2 ul li a:hover {
     text-align: center;
     color: white;
     font-size: 12px;
+	padding-bottom: 5px;
 }
 .follow-me-icons {
 	font-size: 30px;
