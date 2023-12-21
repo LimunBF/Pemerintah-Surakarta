@@ -496,6 +496,28 @@ img.pull-left {
 	border: 1px solid #0BF;
 	border-radius: 50%;
 }
+.visi {
+	align-items: center;
+	width: 55%;
+	text-align: center;
+	background-color: rgba(0, 187, 255, 0.55);
+	padding: 0 5px;
+
+}
+
+.misi {
+	margin-top:25px;
+	align-items: center;
+	width: 55%;
+	text-align: justify;
+	background-color: rgba(0, 187, 255, 0.55);
+	padding: 0 30px;
+
+}
+
+.misi h1 {
+	text-align: center;
+}
 footer {
 	align-items: center;
 	border-top: 1px solid #e5e5e5;
