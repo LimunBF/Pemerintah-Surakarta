@@ -502,27 +502,33 @@ img.pull-left {
 	border: 1px solid #0BF;
 	border-radius: 50%;
 }
+
 .visi {
 	align-items: center;
 	width: 55%;
 	text-align: center;
-	background-color: rgba(0, 187, 255, 0.55);
+	background-color: #00BBFF;
 	padding: 0 5px;
-
+	color: white;
 }
 
+.visi h1 {
+	color: white;
+}
 .misi {
 	margin-top:25px;
 	align-items: center;
 	width: 55%;
 	text-align: justify;
-	background-color: rgba(0, 187, 255, 0.55);
+	background-color: #00BBFF;
 	padding: 0 30px;
-
+	color: white;
+	margin-bottom: 40px;
 }
 
 .misi h1 {
 	text-align: center;
+	color: white;
 }
 footer {
 	align-items: center;
@@ -961,7 +967,7 @@ nav#filter a.current {
 	height: 400px;
 	min-height: 400px;
 	padding-top: 0px;
-	background: #181015 url(../images/zayedh.jpg) 0px -145px no-repeat;
+	background: #181015 url(../images/pasar-gede.png) 0px -145px no-repeat;
 	background-size: 100% 145%;
 	text-align: left; 
 	color: #fff;
@@ -970,7 +976,7 @@ nav#filter a.current {
 	height: 400px;
 	min-height: 400px;
 	padding-top: 0px;
-	background: #181015 url(../images/zayedh.jpg) 0px -145px no-repeat;
+	background: #181015 url(../images/keraton-2.jpg) 0px -145px no-repeat;
 	background-size: 100% 145%;
 	text-align: left; 
 	color: #fff;
