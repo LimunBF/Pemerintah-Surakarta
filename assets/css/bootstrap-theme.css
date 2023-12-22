@@ -66,16 +66,16 @@
 	left: -5px;
 	font-size: 13px;
 	background-color: rgba(0, 0, 0, 0.7);
-	border: 0px none;
+	border: 1px none;
 	-webkit-border-radius: 0px;
 	-moz-border-radius: 0px;
-	border-radius: 0px;
+	border-radius: 7px;
 	-webkit-box-shadow: 0 6px 12px rgba(0, 0, 0, 0.175);
 	box-shadow: 0 6px 12px rgba(0, 0, 0, 0.175);
 }
 
 .navbar-nav .dropdown-menu>li>a {
-	color: rgba(255, 255, 255, 0.7);
+	color: rgb(255, 255, 255);
 	padding: 7px 20px;
 }
 
