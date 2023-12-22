@@ -12,8 +12,4 @@ LinK git
 https://github.com/LimunBF/Pemerintah-Surakarta.git
 
 Link Publikasi
-<<<<<<< Updated upstream
 https://limunbf.github.io/Pemerintah-Surakarta/
-=======
-https://limunbf.github.io/Pemerintah-Surakarta/
->>>>>>> Stashed changes
