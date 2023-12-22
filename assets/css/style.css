@@ -940,23 +940,51 @@ nav#filter a.current {
 	color: #ABABAB;
 }
 #head.secondary {
-	height: 300px;
-	min-height: 300px;
+	height: 400px;
+	min-height: 400px;
 	padding-top: 0px;
-	background: #181015 url(../images/bg_header.jpg) 0px -145px no-repeat;
 	/*background: #f11d25;*/
 	background-size: cover;
 	text-align: left; 
 	color: #fff;
 }
-#head.secondary h1{
- height: 300px;
-    line-height: 390px;
-    
- color: #fff;
- position: absolute;
- z-index: 4;
+#head.secondary-1{
+	height: 400px;
+	min-height: 400px;
+	padding-top: 0px;
+	background: #181015 url(../images/zayedh.jpg) 0px -145px no-repeat;
+	background-size: 100% 145%;
+	text-align: left; 
+	color: #fff;
 }
+#head.secondary-2{
+	height: 400px;
+	min-height: 400px;
+	padding-top: 0px;
+	background: #181015 url(../images/zayedh.jpg) 0px -145px no-repeat;
+	background-size: 100% 145%;
+	text-align: left; 
+	color: #fff;
+}
+#head.secondary-3{
+	height: 400px;
+	min-height: 400px;
+	padding-top: 0px;
+	background: #181015 url(../images/zayedh.jpg) 0px -145px no-repeat;
+	background-size: 100% 145%;
+	text-align: left; 
+	color: #fff;
+}
+#head.secondary h1{
+	margin-top: 120px;
+ 	color: #fff;
+ 	position: absolute;
+	height: 400px;
+	line-height: 390px;
+ 	z-index: 4;
+}
+
+
 /*Price table*/
 .flat {
 	margin: 30px 0;
